@@ -16,6 +16,8 @@
 
     <modules>
         <module>spring-security-oauth2-dependencies</module>
+        <module>spring-security-oauth2-server</module>
+        <module>spring-security-business-oauth2</module>
     </modules>
 
     <properties>
